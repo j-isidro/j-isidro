@@ -6,21 +6,21 @@
 ### 🌊 Walk on Water – Sustainable Raft Design
 - Focus on sustainability and material reuse
 - Hands-on construction and testing  
-[View Project →](https://github.com/your-username/walk-on-water)
+[View Project →](https://github.com/j-isidro/Walk_On_Water.Project)
 
 ---
 
 ### 🌉 Truss Bridge Design & Testing
 - Structural analysis and CAD modeling
 - 3D printed components and load testing  
-[View Project →](https://github.com/your-username/bridge-project)
+[View Project →](https://github.com/j-isidro/CAD.Bridge)
 
 ---
 
 ### 🖊️ Custom Pen CAD Design
 - Reverse engineering and SolidWorks modeling
 - Assembly, drawings, and prototyping  
-[View Project →](https://github.com/your-username/pen-cad-project)
+[View Project →](https://github.com/j-isidro/CAD.Pen_Project)
 
 
 
