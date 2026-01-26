@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Your Name
+Engineering Student | CAD & Design
+
+## Projects
+
+### Walk on Water – Sustainable Raft Design
+- Focus on sustainability and material reuse
+- Hands-on construction and testing  
+[View Project →](https://github.com/your-username/walk-on-water)
+
+---
+
+### Truss Bridge Design & Testing
+- Structural analysis and CAD modeling
+- 3D printed components and load testing  
+[View Project →](https://github.com/your-username/bridge-project)
+
+---
+
+### Custom Pen CAD Design
+- Reverse engineering and SolidWorks modeling
+- Assembly, drawings, and prototyping  
+[View Project →](https://github.com/your-username/pen-cad-project)
