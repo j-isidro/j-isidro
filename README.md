@@ -24,7 +24,7 @@
 
 ---
 
-### Peace Lily Optimizer — MATLAB App
+### Peace Lily Optimizer | MATLAB App
 - Interactive Userface built with MATLAB Code
 - Newton-Raphson root finding and linear interpolation
 - Real-time CO₂ equilibrium optimization
