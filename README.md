@@ -10,6 +10,13 @@
 
 ---
 
+### Engine Design & Testing
+- Thermodynamic analysis and CAD modeling
+- 3D printed components and testing rotation rate 
+[View Project →](https://github.com/j-isidro/CAD.Engine)
+
+---
+
 ### Truss Bridge Design & Testing
 - Structural analysis and CAD modeling
 - 3D printed components and load testing  
@@ -17,10 +24,11 @@
 
 ---
 
-### Engine Design & Testing
-- Thermodynamic analysis and CAD modeling
-- 3D printed components and testing rotation rate 
-[View Project →](https://github.com/j-isidro/CAD.Engine)
+### Peace Lily Optimizer — MATLAB App
+- Interactive Userface built with MATLAB Code
+- Newton-Raphson root finding and linear interpolation
+- Real-time CO₂ equilibrium optimization
+[View Project →](https://github.com/j-isidro/MATLAB-PeaceLillyApp)
 
 ---
 
